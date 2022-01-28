@@ -27,8 +27,8 @@ body {
 }
 -->
 </style>
-<link href="https://jolly-montalcini-64ede9.netlify.app/css/pdn.css" rel="stylesheet" type="text/css" />
-<script src="https://jolly-montalcini-64ede9.netlify.app/Scripts/swfobject_modified.js" type="text/javascript"></script>
+<link href="https://geniuspatient.com/css/pdn.css" rel="stylesheet" type="text/css" />
+<script src="https://geniuspatient.com/Scripts/swfobject_modified.js" type="text/javascript"></script>
 <!-- InstanceBeginEditable name="head" -->
 <!-- InstanceEndEditable -->
 </head>
@@ -40,19 +40,19 @@ body {
       <tr>
         <td width="450" align="left" valign="top"><table width="450" border="0" cellspacing="0" cellpadding="0">
           <tr>
-            <td height="80" align="center"><img src="https://jolly-montalcini-64ede9.netlify.app/images/geniuspatient.jpg" width="427" height="54" /></td>
+            <td height="80" align="center"><img src="https://geniuspatient.com/images/geniuspatient.jpg" width="427" height="54" /></td>
           </tr>
           <tr>
-            <td height="1" background="https://jolly-montalcini-64ede9.netlify.app/images/h_dot.jpg"><img src="https://jolly-montalcini-64ede9.netlify.app/images/h_dot.jpg" width="6" height="1" /></td>
+            <td height="1" background="https://geniuspatient.com/images/h_dot.jpg"><img src="https://geniuspatient.com/images/h_dot.jpg" width="6" height="1" /></td>
           </tr>
           <tr>
             <td><table width="450" border="0" cellspacing="0" cellpadding="0">
               <tr>
                 <td align="center" valign="middle">&nbsp;</td>
-                <td width="1" height="40" valign="top" background="https://jolly-montalcini-64ede9.netlify.app/images/v_dot.jpg"><img src="https://jolly-montalcini-64ede9.netlify.app/images/v_dot.jpg" width="1" height="3" /></td>
-                <td width="80" align="center" valign="middle"><a href="https://jolly-montalcini-64ede9.netlify.app/index1.htm" class="toplink">Home</a></td>
-                <td width="1" valign="top" background="https://jolly-montalcini-64ede9.netlify.app/images/v_dot.jpg"><img src="https://jolly-montalcini-64ede9.netlify.app/images/v_dot.jpg" width="1" height="3" /></td>
-                <td width="100" align="center" valign="middle"><a href="https://jolly-montalcini-64ede9.netlify.app/Contact-US.php" class="toplink">Contact US</a></td>
+                <td width="1" height="40" valign="top" background="https://geniuspatient.com/images/v_dot.jpg"><img src="https://geniuspatient.com/images/v_dot.jpg" width="1" height="3" /></td>
+                <td width="80" align="center" valign="middle"><a href="https://geniuspatient.com/index1.htm" class="toplink">Home</a></td>
+                <td width="1" valign="top" background="https://geniuspatient.com/images/v_dot.jpg"><img src="https://geniuspatient.com/images/v_dot.jpg" width="1" height="3" /></td>
+                <td width="100" align="center" valign="middle"><a href="https://geniuspatient.com/Contact-US.php" class="toplink">Contact US</a></td>
               </tr>
             </table></td>
           </tr>
@@ -60,20 +60,20 @@ body {
         <td width="550" align="right" valign="middle"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="border">
           <tr>
             <td align="left" valign="top"><object id="FlashID" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="550" height="120">
-              <param name="movie" value="https://jolly-montalcini-64ede9.netlify.app/images/cardiogram.swf" />
+              <param name="movie" value="https://geniuspatient.com/images/cardiogram.swf" />
               <param name="quality" value="high" />
               <param name="wmode" value="opaque" />
               <param name="swfversion" value="7.0.70.0" />
               <!-- This param tag prompts users with Flash Player 6.0 r65 and higher to download the latest version of Flash Player. Delete it if you don’t want users to see the prompt. -->
-              <param name="expressinstall" value="https://jolly-montalcini-64ede9.netlify.app/Scripts/expressInstall.swf" />
+              <param name="expressinstall" value="https://geniuspatient.com/Scripts/expressInstall.swf" />
               <!-- Next object tag is for non-IE browsers. So hide it from IE using IECC. -->
               <!--[if !IE]>-->
-              <object type="application/x-shockwave-flash" data="https://jolly-montalcini-64ede9.netlify.app/images/cardiogram.swf" width="550" height="120">
+              <object type="application/x-shockwave-flash" data="https://geniuspatient.com/images/cardiogram.swf" width="550" height="120">
                 <!--<![endif]-->
                 <param name="quality" value="high" />
                 <param name="wmode" value="opaque" />
                 <param name="swfversion" value="7.0.70.0" />
-                <param name="expressinstall" value="https://jolly-montalcini-64ede9.netlify.app/Scripts/expressInstall.swf" />
+                <param name="expressinstall" value="https://geniuspatient.com/Scripts/expressInstall.swf" />
                 <!-- The browser displays the following alternative content for users with Flash Player 6.0 and older. -->
                 
                 <!--[if !IE]>-->
@@ -90,20 +90,20 @@ body {
       <tr>
         <!--<td align="left" valign="top"><table width="1000" border="0" cellspacing="0" cellpadding="0">
           <tr>
-            <td width="190" bgcolor="#941a3f"><img src="https://jolly-montalcini-64ede9.netlify.app/images/tran.gif" width="23" height="17" /></td>
+            <td width="190" bgcolor="#941a3f"><img src="https://geniuspatient.com/images/tran.gif" width="23" height="17" /></td>
             <td width="810" align="right"><marquee direction="left" onmouseover="this.stop();" onmouseout="this.start();"> <a href="https://WWW.YCYH.US" target="_blank" class="stdsmall">Visit :- www.YCYH.US</a></marquee></td>
           </tr>
         </table></td>-->
       </tr>
       <tr>
-        <td align="left" valign="top" bgcolor="#21201c"><!-- InstanceBeginEditable name="EditRegion2" --><img src="https://jolly-montalcini-64ede9.netlify.app/images/header_contactus.jpg" width="1000" height="135" /><!-- InstanceEndEditable --></td>
+        <td align="left" valign="top" bgcolor="#21201c"><!-- InstanceBeginEditable name="EditRegion2" --><img src="https://geniuspatient.com/images/header_contactus.jpg" width="1000" height="135" /><!-- InstanceEndEditable --></td>
       </tr>
       <tr>
         <td align="left" valign="top"><table width="1000" border="0" cellspacing="0" cellpadding="0">
           <tr>
-            <td width="190" bgcolor="#21201c"><img src="https://jolly-montalcini-64ede9.netlify.app/images/tran.gif" width="23" height="17" /></td>
-            <td width="1" valign="top" background="https://jolly-montalcini-64ede9.netlify.app/images/v_dot.jpg"><img src="https://jolly-montalcini-64ede9.netlify.app/images/v_dot.jpg" width="1" height="3" /></td>
-            <td width="809" bgcolor="#941a3f"><img src="https://jolly-montalcini-64ede9.netlify.app/images/tran.gif" width="23" height="17" /></td>
+            <td width="190" bgcolor="#21201c"><img src="https://geniuspatient.com/images/tran.gif" width="23" height="17" /></td>
+            <td width="1" valign="top" background="https://geniuspatient.com/images/v_dot.jpg"><img src="https://geniuspatient.com/images/v_dot.jpg" width="1" height="3" /></td>
+            <td width="809" bgcolor="#941a3f"><img src="https://geniuspatient.com/images/tran.gif" width="23" height="17" /></td>
           </tr>
         </table></td>
       </tr>
@@ -114,17 +114,17 @@ body {
       <tr>
         <td width="190" align="left" valign="bottom"><table width="190" border="0" cellspacing="0" cellpadding="0">
           <tr>
-            <td align="center"><img src="https://jolly-montalcini-64ede9.netlify.app/images/img_tel.jpg" width="185" height="114" /></td>
+            <td align="center"><img src="https://geniuspatient.com/images/img_tel.jpg" width="185" height="114" /></td>
           </tr>
         </table></td>
-        <td width="1" align="left" valign="top" background="https://jolly-montalcini-64ede9.netlify.app/images/v_dot.jpg"><img src="https://jolly-montalcini-64ede9.netlify.app/images/v_dot.jpg" width="1" height="3" /></td>
+        <td width="1" align="left" valign="top" background="https://geniuspatient.com/images/v_dot.jpg"><img src="https://geniuspatient.com/images/v_dot.jpg" width="1" height="3" /></td>
         <td width="809" height="383" align="center" valign="top"><!-- InstanceBeginEditable name="EditRegion1" -->
           <table width="785" border="0" cellspacing="0" cellpadding="0">
             <tr>
               <td align="left" valign="top"><table width="785" border="0" cellspacing="0" cellpadding="0">
                 <tr>
-                  <td width="134" height="50" align="left" valign="middle"><img src="https://jolly-montalcini-64ede9.netlify.app/images/txt_contactus.jpg" width="134" height="16" /></td>
-                  <td width="651" align="left" valign="middle"><img src="https://jolly-montalcini-64ede9.netlify.app/images/arro.jpg" width="164" height="7" /></td>
+                  <td width="134" height="50" align="left" valign="middle"><img src="https://geniuspatient.com/images/txt_contactus.jpg" width="134" height="16" /></td>
+                  <td width="651" align="left" valign="middle"><img src="https://geniuspatient.com/images/arro.jpg" width="164" height="7" /></td>
                 </tr>
               </table></td>
             </tr>
@@ -207,7 +207,7 @@ function checkfrom()
             <tr>
               <td align="left" valign="top" class="std"><table width="500" border="0" cellpadding="0" cellspacing="0" class="border">
                 <tr>
-                  <td align="left" valign="top"><form  action="https://jolly-montalcini-64ede9.netlify.app/Contact-US.php?action=submit" method="post" name="infocheck" onSubmit="return checkfrom();return checkmail()" >
+                  <td align="left" valign="top"><form  action="https://geniuspatient.com/Contact-US.php?action=submit" method="post" name="infocheck" onSubmit="return checkfrom();return checkmail()" >
                     <table width="500" border="0" cellspacing="2" cellpadding="5">
                       <tr>
                         <td colspan="3" align="right" valign="top" class="std"><strong><?php if(isset($msg)){echo $msg;};?></strong></td>
@@ -259,24 +259,24 @@ function checkfrom()
     <td align="left" valign="top" bgcolor="#FFFFFF"><table width="1000" border="0" cellspacing="0" cellpadding="0">
       <tr>
         <td width="190" align="center" valign="middle" bgcolor="#21201c"><a href="https://www.ydsworld.com" target="_blank" class="bottom">Design by YDS World</a></td>
-        <td width="1" valign="top" background="https://jolly-montalcini-64ede9.netlify.app/images/v_dot.jpg"><img src="https://jolly-montalcini-64ede9.netlify.app/images/v_dot.jpg" width="1" height="3" /></td>
+        <td width="1" valign="top" background="https://geniuspatient.com/images/v_dot.jpg"><img src="https://geniuspatient.com/images/v_dot.jpg" width="1" height="3" /></td>
         <td width="809"><table width="809" border="0" cellspacing="0" cellpadding="0">
           <tr>
-            <td bgcolor="#941a3f"><img src="https://jolly-montalcini-64ede9.netlify.app/images/tran.gif" width="23" height="17" /></td>
+            <td bgcolor="#941a3f"><img src="https://geniuspatient.com/images/tran.gif" width="23" height="17" /></td>
           </tr>
           <tr>
             <td height="46" align="right" valign="bottom"><table width="805" border="0" cellspacing="0" cellpadding="0">
               <tr>
                 <td align="left" valign="middle" class="stdgraycolor">Copyright © 2009-2010, GeniusPatient.com  All Rights Reserved.</td>
-                <td width="1" height="40" valign="top" background="https://jolly-montalcini-64ede9.netlify.app/images/v_dot.jpg"><img src="https://jolly-montalcini-64ede9.netlify.app/images/v_dot.jpg" width="1" height="3" /></td>
-                <td width="80" align="center" valign="middle"><a href="https://jolly-montalcini-64ede9.netlify.app/index1.htm" class="toplink">Home</a></td>
-                <td width="1" valign="top" background="https://jolly-montalcini-64ede9.netlify.app/images/v_dot.jpg"><img src="https://jolly-montalcini-64ede9.netlify.app/images/v_dot.jpg" width="1" height="3" /></td>
-                <td width="100" align="center" valign="middle"><a href="https://jolly-montalcini-64ede9.netlify.app/Contact-US.php" class="toplink">Contact US</a></td>
+                <td width="1" height="40" valign="top" background="https://geniuspatient.com/images/v_dot.jpg"><img src="https://geniuspatient.com/images/v_dot.jpg" width="1" height="3" /></td>
+                <td width="80" align="center" valign="middle"><a href="https://geniuspatient.com/index1.htm" class="toplink">Home</a></td>
+                <td width="1" valign="top" background="https://geniuspatient.com/images/v_dot.jpg"><img src="https://geniuspatient.com/images/v_dot.jpg" width="1" height="3" /></td>
+                <td width="100" align="center" valign="middle"><a href="https://geniuspatient.com/Contact-US.php" class="toplink">Contact US</a></td>
               </tr>
             </table></td>
           </tr>
           <tr>
-            <td bgcolor="#21201c"><img src="https://jolly-montalcini-64ede9.netlify.app/images/tran.gif" width="23" height="6" /></td>
+            <td bgcolor="#21201c"><img src="https://geniuspatient.com/images/tran.gif" width="23" height="6" /></td>
           </tr>
         </table></td>
       </tr>
@@ -286,59 +286,59 @@ function checkfrom()
 <div id=fixedtop>
 <div id=center250 align="left"><table width="190" border="0" cellspacing="0" cellpadding="0">
           <!--<tr>
-            <td background="https://jolly-montalcini-64ede9.netlify.app/images/h_dot.jpg"><img src="https://jolly-montalcini-64ede9.netlify.app/images/h_dot.jpg" width="6" height="1" /></td>
+            <td background="https://geniuspatient.com/images/h_dot.jpg"><img src="https://geniuspatient.com/images/h_dot.jpg" width="6" height="1" /></td>
           </tr>
           <tr>
-            <td height="30" align="left" valign="middle"><a href="https://jolly-montalcini-64ede9.netlify.app/Current-US-Healthcare.htm" class="topleftlink">Current US Healthcare</a></td>
+            <td height="30" align="left" valign="middle"><a href="https://geniuspatient.com/Current-US-Healthcare.htm" class="topleftlink">Current US Healthcare</a></td>
           </tr>-->
 
           <tr>
-           <td align="left" valign="middle" background="https://jolly-montalcini-64ede9.netlify.app/images/h_dot.jpg"><img src="https://jolly-montalcini-64ede9.netlify.app/images/h_dot.jpg" width="6" height="1" /></td>
+           <td align="left" valign="middle" background="https://geniuspatient.com/images/h_dot.jpg"><img src="https://geniuspatient.com/images/h_dot.jpg" width="6" height="1" /></td>
           </tr>
           <tr>
-            <td height="30" align="left" valign="middle"><a href="https://jolly-montalcini-64ede9.netlify.app/index.html" class="topleftlink">Our Book</a></td>
+            <td height="30" align="left" valign="middle"><a href="https://geniuspatient.com/index.html" class="topleftlink">Our Book</a></td>
           </tr>
           
           <tr>
-           <td align="left" valign="middle" background="https://jolly-montalcini-64ede9.netlify.app/images/h_dot.jpg"><img src="https://jolly-montalcini-64ede9.netlify.app/images/h_dot.jpg" width="6" height="1" /></td>
+           <td align="left" valign="middle" background="https://geniuspatient.com/images/h_dot.jpg"><img src="https://geniuspatient.com/images/h_dot.jpg" width="6" height="1" /></td>
           </tr>
           <tr>
-            <td height="30" align="left" valign="middle"><a href="https://jolly-montalcini-64ede9.netlify.app/ourvideos.html" class="topleftlink">Our Videos</a></td>
+            <td height="30" align="left" valign="middle"><a href="https://geniuspatient.com/ourvideos.html" class="topleftlink">Our Videos</a></td>
           </tr>
 
           <tr>
-           <td align="left" valign="middle" background="https://jolly-montalcini-64ede9.netlify.app/images/h_dot.jpg"><img src="https://jolly-montalcini-64ede9.netlify.app/images/h_dot.jpg" width="6" height="1" /></td>
+           <td align="left" valign="middle" background="https://geniuspatient.com/images/h_dot.jpg"><img src="https://geniuspatient.com/images/h_dot.jpg" width="6" height="1" /></td>
           </tr>
           <tr>
-            <td height="30" align="left" valign="middle"><a href="https://jolly-montalcini-64ede9.netlify.app/eRecord.htm" class="topleftlink">eRecord</a></td>
+            <td height="30" align="left" valign="middle"><a href="https://geniuspatient.com/eRecord.htm" class="topleftlink">eRecord</a></td>
           </tr>
           
           <tr>
-           <td align="left" valign="middle" background="https://jolly-montalcini-64ede9.netlify.app/images/h_dot.jpg"><img src="https://jolly-montalcini-64ede9.netlify.app/images/h_dot.jpg" width="6" height="1" /></td>
+           <td align="left" valign="middle" background="https://geniuspatient.com/images/h_dot.jpg"><img src="https://geniuspatient.com/images/h_dot.jpg" width="6" height="1" /></td>
           </tr>
           <tr>
-            <td height="30" align="left" valign="middle"><a href="https://jolly-montalcini-64ede9.netlify.app/Bubbas-Dilema.htm" class="topleftlink">Bubba's Dilema</a></td>
+            <td height="30" align="left" valign="middle"><a href="https://geniuspatient.com/Bubbas-Dilema.htm" class="topleftlink">Bubba's Dilema</a></td>
           </tr>
           <tr>
-            <td align="left" valign="middle" background="https://jolly-montalcini-64ede9.netlify.app/images/h_dot.jpg"><img src="https://jolly-montalcini-64ede9.netlify.app/images/h_dot.jpg" width="6" height="1" /></td>
+            <td align="left" valign="middle" background="https://geniuspatient.com/images/h_dot.jpg"><img src="https://geniuspatient.com/images/h_dot.jpg" width="6" height="1" /></td>
           </tr>
           <tr>
-            <td height="30" align="left" valign="middle"><a href="https://jolly-montalcini-64ede9.netlify.app/Payment-System.htm" class="topleftlink">Payment System</a></td>
+            <td height="30" align="left" valign="middle"><a href="https://geniuspatient.com/Payment-System.htm" class="topleftlink">Payment System</a></td>
           </tr>
           <tr>
-            <td align="left" valign="middle" background="https://jolly-montalcini-64ede9.netlify.app/images/h_dot.jpg"><img src="https://jolly-montalcini-64ede9.netlify.app/images/h_dot.jpg" width="6" height="1" /></td>
+            <td align="left" valign="middle" background="https://geniuspatient.com/images/h_dot.jpg"><img src="https://geniuspatient.com/images/h_dot.jpg" width="6" height="1" /></td>
           </tr>
           <tr>
-            <td height="30" align="left" valign="middle"><a href="https://jolly-montalcini-64ede9.netlify.app/Our-Pledge.htm" class="topleftlink">Our Pledge</a></td>
+            <td height="30" align="left" valign="middle"><a href="https://geniuspatient.com/Our-Pledge.htm" class="topleftlink">Our Pledge</a></td>
           </tr>
           <tr>
-            <td align="left" valign="middle" background="https://jolly-montalcini-64ede9.netlify.app/images/h_dot.jpg"><img src="https://jolly-montalcini-64ede9.netlify.app/images/h_dot.jpg" width="6" height="1" /></td>
+            <td align="left" valign="middle" background="https://geniuspatient.com/images/h_dot.jpg"><img src="https://geniuspatient.com/images/h_dot.jpg" width="6" height="1" /></td>
           </tr>
           <tr>
-            <td height="30" align="left" valign="middle"><a href="https://jolly-montalcini-64ede9.netlify.app/Final-Answer.htm" class="topleftlink">Final Answer</a></td>
+            <td height="30" align="left" valign="middle"><a href="https://geniuspatient.com/Final-Answer.htm" class="topleftlink">Final Answer</a></td>
           </tr>
           <tr>
-            <td align="left" valign="middle" background="https://jolly-montalcini-64ede9.netlify.app/images/h_dot.jpg"><img src="https://jolly-montalcini-64ede9.netlify.app/images/h_dot.jpg" width="6" height="1" /></td>
+            <td align="left" valign="middle" background="https://geniuspatient.com/images/h_dot.jpg"><img src="https://geniuspatient.com/images/h_dot.jpg" width="6" height="1" /></td>
           </tr>
         </table>
   </div>
